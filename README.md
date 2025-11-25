@@ -13,4 +13,4 @@ A fictional pet care business website that uses Bootstrap 5's CSS and JavaScript
 [https://ozarktechwebdev.com/john_b/pawfect-pet-care/](https://ozarktechwebdev.com/john_b/pawfect-pet-care/)
 
 ### Screenshot
-Coming Soon...
+![Screenshot of Pawfect Pet Care Website](pawfect-pet-care-website.png)
